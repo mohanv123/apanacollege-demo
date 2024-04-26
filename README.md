@@ -1,3 +1,3 @@
 this is my sample repo
 <br>
-author mohanv
+author mohanv (apana college)
